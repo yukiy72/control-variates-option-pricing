@@ -1,4 +1,4 @@
-# control-variates-option-pricing
+# Option Pricing using a Control Variate (Monte Carlo Simulation)
 
 The content of this notebook is based on Chapter 4 of the book "Monte Carlo Methods in Financial Engineering" by Paul Glasserman. <br>
 
