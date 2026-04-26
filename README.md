@@ -8,7 +8,7 @@ This project implements a Monte Carlo simulation for pricing a European call opt
 
 To improve the efficiency and accuracy of standard Monte Carlo estimation, the project applies **control variates method** as a variance reduction technique.
 
-The goal is to compare the performance (variance and convergence speed) between standard Monte Carlo estimator and one with a control variate.
+The goal is to compare the performance (variance and convergence speed) between a standard Monte Carlo estimator and a control variate estimator.
 
 ---
 
